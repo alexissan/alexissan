@@ -1,6 +1,8 @@
 # Hey, I'm Alexis 👋  
 iOS Engineer • Indie Builder • Obsessive Optimizer
 
+📍 Tenerife ↔ London | 🤖 Mostly AI Driven | 🚀 Ex-Bumble Inc iOS Team Leader
+
 ### What I’m building
 - **LeanCam** – A minimal, noir-style camera for creators  
 - **Ikigai Habits** – A guided, path-based habit app  
