@@ -21,6 +21,6 @@ Make my apps profitable enough to go full-time indie, starting with monthly €2
 # My work
 
 ## Previous
-💟 [RomanceReel](https://github.com/alexissan/RomanceReel) - A SwiftUI profile carousel with smooth custom animations and a premium, modern feel.
-🎵 [ReactNativeWorkshop](https://github.com/alexissan/ReactNativeWorkshop) - iTunesCatalog is a demo app that aims to show the React Native platform potential. (outdate, not maintained)
-📄 [THEPageControl](https://github.com/badoo/THEPageControl) - THEPageControl is a nice page control written in Swift. Contributed while at Badoo / Bumble
+- 💟 [RomanceReel](https://github.com/alexissan/RomanceReel) - A SwiftUI profile carousel with smooth custom animations and a premium, modern feel.
+- 🎵 [ReactNativeWorkshop](https://github.com/alexissan/ReactNativeWorkshop) - iTunesCatalog is a demo app for React Native. (outdate, not maintained)
+- 📄 [THEPageControl](https://github.com/badoo/THEPageControl) - THEPageControl is a nice page control written in Swift. Contributed while at Badoo / Bumble
