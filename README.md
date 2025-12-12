@@ -9,7 +9,17 @@ iOS Engineer • Indie Builder • Obsessive Optimizer
 - **AI-driven tools** – Testing indie dev sustainability
 
 ### Tech I enjoy
-Swift • SwiftUI • UIKit • Xcode • Core Data • CloudKit • AI tools • Build automation • Indie growth
+<p>
+  <img src="https://img.shields.io/badge/AI%20Tools-000000?logo=openai&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/Build%20Automation-1E90FF?logo=fastlane&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/Indie%20Growth-6A5ACD?logo=rocket&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/Core%20Data-1E1E1E?logo=apple&logoColor=white&style=for-the-badge" height="22" />
+  <img src="https://img.shields.io/badge/CloudKit-0D96F6?logo=icloud&logoColor=white&style=for-the-badge" height="22" />
+</p>
 
 ### Current mission
 Make my apps profitable enough to go full-time indie, starting with monthly €200 milestones.
