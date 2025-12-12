@@ -17,3 +17,9 @@ Make my apps profitable enough to go full-time indie, starting with monthly €2
 ### Connect
 - Twitter/X: [@deepfirstsearch](https://x.com/deepfirstsearch)
 - LinkedIn: [@asantosp](https://www.linkedin.com/in/asantosp/)
+
+# My work
+
+## Previous
+💟 [RomanceReel](https://github.com/alexissan/RomanceReel) - A SwiftUI profile carousel with smooth custom animations and a premium, modern feel.
+🎵 [ReactNativeWorkshop](https://github.com/alexissan/ReactNativeWorkshop) - iTunesCatalog is a demo app that aims to show the React Native platform potential. (outdate, not maintained)
