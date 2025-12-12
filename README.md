@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Alexis 👋  
+iOS Engineer • Indie Builder • Obsessive Optimizer
 
-<!--
-**alexissan/alexissan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I’m building
+- **LeanCam** – A minimal, noir-style camera for creators  
+- **Ikigai Habits** – A guided, path-based habit app  
+- **AI-driven tools** – Testing indie dev sustainability
 
-Here are some ideas to get you started:
+### Tech I enjoy
+Swift • SwiftUI • UIKit • Xcode • Core Data • CloudKit • AI tools • Build automation • Indie growth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current mission
+Make my apps profitable enough to go full-time indie, starting with monthly €200 milestones.
+
+### Connect
+- Twitter/X: [@deepfirstsearch](https://x.com/deepfirstsearch)
+- LinkedIn: [@asantosp](https://www.linkedin.com/in/asantosp/)
