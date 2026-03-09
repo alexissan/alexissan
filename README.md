@@ -32,6 +32,7 @@ Make my apps profitable enough to go full-time indie, starting with monthly €2
 
 ## AI-driven Tools
 - 📝 [prettymd](https://github.com/alexissan/prettymd) - AI-powered Markdown formatter designed for developer workflows.
+- ⚙️ [claude-code-config](https://github.com/alexissan/claude-code-config) - My CLAUDE.md config for iOS development with Claude Code.
 
 ## Previous
 - 💟 [RomanceReel](https://github.com/alexissan/RomanceReel) - A SwiftUI profile carousel with smooth custom animations and a premium, modern feel.
