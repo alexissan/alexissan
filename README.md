@@ -33,6 +33,8 @@ Make my apps profitable enough to go full-time indie, starting with monthly €2
 ## AI-driven Tools
 - 📝 [prettymd](https://github.com/alexissan/prettymd) - AI-powered Markdown formatter designed for developer workflows.
 - ⚙️ [claude-code-config](https://github.com/alexissan/claude-code-config) - My CLAUDE.md config for iOS development with Claude Code.
+- 📡 [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) - CLI that tracks OpenAI/Anthropic/Gemini updates with actionable daily brief + compare mode.
+- 🎯 [ai-focus-sprint-cli](https://github.com/alexissan/ai-focus-sprint-cli) - CLI for focused coding sprints with structured kickoff and recap flow.
 
 ## Previous
 - 💟 [RomanceReel](https://github.com/alexissan/RomanceReel) - A SwiftUI profile carousel with smooth custom animations and a premium, modern feel.
