@@ -35,6 +35,7 @@ Make my apps profitable enough to go full-time indie, starting with monthly €2
 - ⚙️ [claude-code-config](https://github.com/alexissan/claude-code-config) - My CLAUDE.md config for iOS development with Claude Code.
 - 📡 [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) - CLI that tracks OpenAI/Anthropic/Gemini updates with actionable daily brief + compare mode.
 - 🎯 [ai-focus-sprint-cli](https://github.com/alexissan/ai-focus-sprint-cli) - CLI for focused coding sprints with structured kickoff and recap flow.
+- ⏱️ [openclaw-cron-blueprints](https://github.com/alexissan/openclaw-cron-blueprints) - CLI to generate safe OpenClaw cron blueprints and ready-to-run command templates.
 
 ## Previous
 - 💟 [RomanceReel](https://github.com/alexissan/RomanceReel) - A SwiftUI profile carousel with smooth custom animations and a premium, modern feel.
