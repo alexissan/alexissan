@@ -36,6 +36,7 @@ Make my apps profitable enough to go full-time indie, starting with monthly €2
 - 📡 [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) - CLI that tracks OpenAI/Anthropic/Gemini updates with actionable daily brief + compare mode.
 - 📰 [ai-brief-cli](https://github.com/alexissan/ai-brief-cli) - CLI that turns any AI news / release URL into a short engineer-focused brief plus a tweet draft.
 - 🚢 [ai-ship-log-cli](https://github.com/alexissan/ai-ship-log-cli) - CLI that turns recent git commits into a concise human changelog plus a tweet draft.
+- 🧪 [ai-eval-plan-cli](https://github.com/alexissan/ai-eval-plan-cli) - CLI that turns an AI feature/agent idea into a concrete eval plan plus a tweet-sized summary.
 - 🎯 [ai-focus-sprint-cli](https://github.com/alexissan/ai-focus-sprint-cli) - CLI for focused coding sprints with structured kickoff and recap flow.
 - ⏱️ [openclaw-cron-blueprints](https://github.com/alexissan/openclaw-cron-blueprints) - CLI to generate safe OpenClaw cron blueprints and ready-to-run command templates.
 - 🎨 [appbrandkit-ai](https://github.com/alexissan/appbrandkit-ai) - Web app that generates iOS app branding packs: icon concepts, icon-size exports, screenshots, and copy.
