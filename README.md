@@ -37,6 +37,7 @@ Small tools I actually use to keep myself honest as an AI engineer:
 - 📡 [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) – daily AI brief from OpenAI/Anthropic/Gemini without doomscrolling.
 - 🚢 [ai-ship-log-cli](https://github.com/alexissan/ai-ship-log-cli) – turns recent git commits into a human changelog + tweet draft.
 - 🧪 [ai-eval-plan-cli](https://github.com/alexissan/ai-eval-plan-cli) – turns vague AI feature/agent ideas into concrete eval plans.
+- 💰 [ai-money-moves-cli](https://github.com/alexissan/ai-money-moves-cli) – turns your Life-OS dashboard into 3 concrete money moves for today.
 - 🎯 [ai-focus-sprint-cli](https://github.com/alexissan/ai-focus-sprint-cli) – focused coding sprints with structured kickoff/recap.
 
 ### Other AI tools
