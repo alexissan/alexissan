@@ -1,56 +1,36 @@
-# Hey, I'm Alexis 👋  
-iOS Engineer • Indie Builder • Obsessive Optimizer
+# Hey, I'm Alexis
 
-📍 Tenerife ↔ London | 🤖 Mostly AI Driven | 🚀 Ex-Bumble Inc iOS Team Leader
+Senior Engineer. Indie builder. Shipping fast with AI.
 
-### What I’m building
-- **LeanCam** – A minimal, noir-style camera for creators  
-- **Ikigai Habits** – A guided, path-based habit app  
-- **AI-driven tools** – Testing indie dev sustainability
+Based in Tenerife, Spain. Previously Staff iOS Engineer and Engineering Manager at Bumble Inc.
 
-### Tech I enjoy
-<p>
-  <img src="https://img.shields.io/badge/AI%20Tools-000000?logo=openai&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/Build%20Automation-1E90FF?logo=fastlane&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/Indie%20Growth-6A5ACD?logo=rocket&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/Core%20Data-1E1E1E?logo=apple&logoColor=white&style=for-the-badge" height="22" />
-  <img src="https://img.shields.io/badge/CloudKit-0D96F6?logo=icloud&logoColor=white&style=for-the-badge" height="22" />
-</p>
+Now building indie software and writing about the journey.
 
-### Current mission
-Make my apps profitable enough to go full-time indie, starting with monthly €200 milestones.
+### Currently building
+
+- **[Mac Wisper](https://macwisper.com)** — AI voice-to-text for macOS. On-device transcription + AI cleanup. Hold a key, speak, get polished text in any app.
+- **[iOS Claude Skills](https://github.com/alexissan/ios-claude-skills)** — Production-ready Claude Code skills for iOS developers. The toolkit I use to ship apps at lightning speed.
+- **[Lean Cam](https://apps.apple.com/us/app/lean-cam/id6755633580)** — Minimal camera app for iOS.
+
+### Writing
+
+I write about AI engineering, indie dev, and what actually works when building solo:
+
+- [Building Is the Easy Part Now](https://alexissantos.dev/articles/building-is-the-easy-part) — AI made shipping trivial. Growth is the real problem.
+- [I Built 6 Apps in 3 Months](https://alexissantos.dev/articles/6-apps-3-months-solo-dev) — Most went nowhere. One has real users.
+- [Claude Code Changed How I Ship](https://alexissantos.dev/articles/claude-code-changed-how-i-ship) — 3 months of daily use. Honest review.
+
+More at [alexissantos.dev/articles](https://alexissantos.dev/articles)
+
+### AI dev tools
+
+Small tools I use daily:
+- [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) — daily AI brief from OpenAI/Anthropic/Gemini
+- [ai-ship-log-cli](https://github.com/alexissan/ai-ship-log-cli) — git commits to human changelog + tweet draft
+- [ai-eval-plan-cli](https://github.com/alexissan/ai-eval-plan-cli) — AI feature ideas to concrete eval plans
+- [claude-code-config](https://github.com/alexissan/claude-code-config) — my CLAUDE.md config for iOS development
+- [appbrandkit-ai](https://github.com/alexissan/appbrandkit-ai) — generate iOS app branding packs with AI
 
 ### Connect
-- Twitter/X: [@deepfirstsearch](https://x.com/deepfirstsearch)
-- LinkedIn: [@asantosp](https://www.linkedin.com/in/asantosp/)
 
-# My work
-
-## AI-driven Tools
-
-### AI Ship Stack
-Small tools I actually use to keep myself honest as an AI engineer:
-- 📡 [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) – daily AI brief from OpenAI/Anthropic/Gemini without doomscrolling.
-- 🚢 [ai-ship-log-cli](https://github.com/alexissan/ai-ship-log-cli) – turns recent git commits into a human changelog + tweet draft.
-- 🧪 [ai-eval-plan-cli](https://github.com/alexissan/ai-eval-plan-cli) – turns vague AI feature/agent ideas into concrete eval plans.
-- 💰 [ai-money-moves-cli](https://github.com/alexissan/ai-money-moves-cli) – turns your Life-OS dashboard into 3 concrete money moves for today.
-- 🎯 [ai-focus-sprint-cli](https://github.com/alexissan/ai-focus-sprint-cli) – focused coding sprints with structured kickoff/recap.
-
-### Other AI tools
-- 📝 [prettymd](https://github.com/alexissan/prettymd) - AI-powered Markdown formatter designed for developer workflows.
-- ⚙️ [claude-code-config](https://github.com/alexissan/claude-code-config) - My CLAUDE.md config for iOS development with Claude Code.
-- 📰 [ai-brief-cli](https://github.com/alexissan/ai-brief-cli) - CLI that turns any AI news / release URL into a short engineer-focused brief plus a tweet draft.
-- ⏱️ [openclaw-cron-blueprints](https://github.com/alexissan/openclaw-cron-blueprints) - CLI to generate safe OpenClaw cron blueprints and ready-to-run command templates.
-- 🎨 [appbrandkit-ai](https://github.com/alexissan/appbrandkit-ai) - Web app that generates iOS app branding packs: icon concepts, icon-size exports, screenshots, and copy.
-
-## Previous
-- 💟 [RomanceReel](https://github.com/alexissan/RomanceReel) - A SwiftUI profile carousel with smooth custom animations and a premium, modern feel.
-- 🎵 [ReactNativeWorkshop](https://github.com/alexissan/ReactNativeWorkshop) - iTunesCatalog is a demo app for React Native (outdate, not maintained).
-- 📄 [THEPageControl](https://github.com/badoo/THEPageControl) - THEPageControl is a nice page control written in Swift. Contributed while at Badoo / Bumble.
-
-# Other contributions
-- [Talk about SwiftUI at Swiftable Conference (Buenos Aires)](https://www.youtube.com/watch?v=iIUNqNDr4dM)
+[X](https://x.com/deepfirstsearch) · [LinkedIn](https://linkedin.com/in/asantosp) · [Website](https://alexissantos.dev)
