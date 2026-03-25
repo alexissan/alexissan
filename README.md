@@ -8,7 +8,7 @@ Now building indie software and writing about the journey.
 
 ### Currently building
 
-- **[Mac Wisper](https://macwisper.com)** — AI voice-to-text for macOS. On-device transcription + AI cleanup. Hold a key, speak, get polished text in any app.
+- **[Air Wisper](https://airwisper.com)** — AI voice-to-text for macOS. On-device transcription + AI cleanup. Hold a key, speak, get polished text in any app.
 - **[iOS Claude Skills](https://github.com/alexissan/ios-claude-skills)** — Production-ready Claude Code skills for iOS developers. The toolkit I use to ship apps at lightning speed.
 - **[Lean Cam](https://apps.apple.com/us/app/lean-cam/id6755633580)** — Minimal camera app for iOS.
 
