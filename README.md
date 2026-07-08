@@ -28,8 +28,16 @@ Small tools I use daily:
 - [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) — daily AI brief from OpenAI/Anthropic/Gemini
 - [ai-ship-log-cli](https://github.com/alexissan/ai-ship-log-cli) — git commits to human changelog + tweet draft
 - [ai-eval-plan-cli](https://github.com/alexissan/ai-eval-plan-cli) — AI feature ideas to concrete eval plans
+- [ai-brief-cli](https://github.com/alexissan/ai-brief-cli) — AI news and blog posts to short, action-focused briefs
+- [ai-focus-sprint-cli](https://github.com/alexissan/ai-focus-sprint-cli) — focused AI work sprints with kickoff and recap outputs
 - [claude-code-config](https://github.com/alexissan/claude-code-config) — my CLAUDE.md config for iOS development
 - [appbrandkit-ai](https://github.com/alexissan/appbrandkit-ai) — generate iOS app branding packs with AI
+- [apple-music-playlist-bot](https://github.com/alexissan/apple-music-playlist-bot) — agent-friendly CLI to create Apple Music playlists on macOS
+
+### Swift & iOS
+
+- [prettymd](https://github.com/alexissan/prettymd) — a markdown prettifier written in Swift
+- [RomanceReel](https://github.com/alexissan/RomanceReel) — SwiftUI profile carousel with custom animations and interactive buttons
 
 ### Connect
 
