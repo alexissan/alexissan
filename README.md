@@ -17,6 +17,7 @@ Now building indie software and writing about the journey.
 
 I write about AI engineering, indie dev, and what actually works when building solo:
 
+- [I Open-Sourced the Skills I Use to Ship iOS Apps at Lightning Speed](https://alexissantos.dev/articles/ios-claude-skills-open-source) — 12 Claude Code skills for iOS developers.
 - [Building Is the Easy Part Now](https://alexissantos.dev/articles/building-is-the-easy-part) — AI made shipping trivial. Growth is the real problem.
 - [I Built 6 Apps in 3 Months](https://alexissantos.dev/articles/6-apps-3-months-solo-dev) — Most went nowhere. One has real users.
 - [Claude Code Changed How I Ship](https://alexissantos.dev/articles/claude-code-changed-how-i-ship) — 3 months of daily use. Honest review.
@@ -27,13 +28,11 @@ More at [alexissantos.dev/articles](https://alexissantos.dev/articles)
 
 Small tools I use daily:
 - [ai-release-radar-cli](https://github.com/alexissan/ai-release-radar-cli) — daily AI brief from OpenAI/Anthropic/Gemini
-- [ai-ship-log-cli](https://github.com/alexissan/ai-ship-log-cli) — git commits to human changelog + tweet draft
-- [ai-eval-plan-cli](https://github.com/alexissan/ai-eval-plan-cli) — AI feature ideas to concrete eval plans
+- [ai-in-the-wild-feed](https://github.com/alexissan/ai-in-the-wild-feed) — auto-updated daily feed of AI-in-the-wild articles
 - [ai-brief-cli](https://github.com/alexissan/ai-brief-cli) — AI news and blog posts to short, action-focused briefs
 - [ai-focus-sprint-cli](https://github.com/alexissan/ai-focus-sprint-cli) — focused AI work sprints with kickoff and recap outputs
 - [claude-code-config](https://github.com/alexissan/claude-code-config) — my CLAUDE.md config for iOS development
 - [appbrandkit-ai](https://github.com/alexissan/appbrandkit-ai) — generate iOS app branding packs with AI
-- [apple-music-playlist-bot](https://github.com/alexissan/apple-music-playlist-bot) — agent-friendly CLI to create Apple Music playlists on macOS
 
 ### Swift & iOS
 
