@@ -8,7 +8,7 @@ Now building indie software and writing about the journey.
 
 ### Currently building
 
-- **[SimLease](https://github.com/alexissan/simlease)** — Stop your AI agents from fighting over iOS simulators. Leases, task-name window titles, and a menubar board.
+- **[SimLease](https://github.com/alexissan/simlease)** [![GitHub stars](https://img.shields.io/github/stars/alexissan/simlease?style=flat&logo=github&label=stars)](https://github.com/alexissan/simlease/stargazers) — Stop your AI agents from fighting over iOS simulators. Leases, task-name window titles, and a menubar board.
 - **[Air Wisper](https://airwisper.com)** — AI voice-to-text for macOS. On-device transcription + AI cleanup. Hold a key, speak, get polished text in any app.
 - **[iOS Claude Skills](https://github.com/alexissan/ios-claude-skills)** — Production-ready Claude Code skills for iOS developers. The toolkit I use to ship apps at lightning speed.
 - **[Lean Cam](https://apps.apple.com/us/app/lean-cam/id6755633580)** — Minimal camera app for iOS.
