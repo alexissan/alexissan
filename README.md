@@ -42,6 +42,7 @@ Small tools I use daily:
 ### Demo projects
 
 - **[Point Break](https://github.com/alexissan/point-break)** — an endless peeling wave in a single WebGL2 file. No dependencies, no build step. Solved in the wave's own reference frame, so surfing becomes sliding down a hill that never runs out.
+- **[Clickwheel](https://github.com/alexissan/clickwheel)** — a hyperrealistic 5th-gen iPod on your Mac, playing your starred Apple Music songs. The wheel really works: spin it, it ticks, the trackpad taps back. Every dimension comes from the real device, so it renders life-sized.
 
 ### Connect
 
