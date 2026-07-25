@@ -39,6 +39,10 @@ Small tools I use daily:
 - [prettymd](https://github.com/alexissan/prettymd) — a markdown prettifier written in Swift
 - [RomanceReel](https://github.com/alexissan/RomanceReel) — SwiftUI profile carousel with custom animations and interactive buttons
 
+### Demo projects
+
+- **[Point Break](https://github.com/alexissan/point-break)** — an endless peeling wave in a single WebGL2 file. No dependencies, no build step. Solved in the wave's own reference frame, so surfing becomes sliding down a hill that never runs out.
+
 ### Connect
 
 [X](https://x.com/deepfirstsearch) · [LinkedIn](https://linkedin.com/in/asantosp) · [Website](https://alexissantos.dev)
